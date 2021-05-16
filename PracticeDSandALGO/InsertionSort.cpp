@@ -1,3 +1,8 @@
+/*
+  Date                Name                      Change
+16-05-2021        Amit Shinde                 Written Algorithm
+*/
+
 #include<iostream>
 
 using namespace std;
